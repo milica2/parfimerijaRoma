@@ -1,0 +1,202 @@
+body{
+    background-image:url("../imgg/bg7.jpeg");
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+}
+.div-jedan{
+    text-align:center;
+    font-family: sans-serif;
+}
+.div-jedan p{
+    font-size: 22px;
+}
+.katalog{
+    margin:auto;
+    font-weight: bold;
+    width: 900px;
+}
+.katalog1{
+    margin:auto;
+    font-weight: bold;
+    width: 900px;
+}
+.div-jedan{
+    font-family: sans-serif;
+    color:black;
+    margin-top: 5%;
+    font-size: 18px;
+}
+
+h1{
+    color:black;
+    margin-left: 1%;
+}
+
+.div-tri{
+    margin-left: 3%;
+    color:black;
+}
+nav ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+nav ul li{
+    display:inline-block;
+    width: 10%;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color:darkblue ; 
+}
+nav ul li a:hover{
+    color:white;
+    font-style: italic;
+ }
+
+.slika-jedan{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    }
+
+.slika-jedan p{
+    text-align: center;
+    margin-top: 2px;
+}
+
+.slika-jedan img{
+    width:180px;
+    height: 180px;
+    border:none;
+}
+
+.slika-dva{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.slika-dva p{
+    text-align: center;
+    margin-top: 2px;
+}
+
+.slika-dva img{
+    width:180px;
+    height: 180px;
+    border:none;
+}
+
+
+.slika-tri{
+    float: left;
+    margin-right: 10px;
+    margin-bottom:20px;
+}
+
+.slika-tri p {
+    text-align:center;
+    margin-top:2px;
+}
+
+.slika-tri img{
+    width: 180px;
+    height: 180px;
+    border:none;
+}
+
+.slika-cetiri{
+    float: left;
+    margin-right:10px;
+    margin-bottom:20px;
+}
+
+.slika-cetiri p{
+    text-align:center;
+    margin-top:2px;
+}
+
+.slika-cetiri img{
+    width: 180px;
+    height: 180px;
+    border:none;
+}
+
+
+.slika-pet{
+    float: left;
+    margin-right:10px;
+    margin-bottom:20px;
+}
+
+.slika-pet p {
+    text-align:center;
+    margin-top:2px;
+}
+
+.slika-pet img{
+    width: 180px;
+    height: 180px;
+    border:none;
+}
+
+.slika-sest{
+    float: left;
+    margin-right:10px;
+    margin-bottom:20px;
+}
+
+.slika-sest p{
+    text-align:center;
+    margin-top:2px;
+}
+
+.slika-sest img{
+    width: 180px;
+    height: 180px;
+    border:none;
+}
+
+.slika-sedam{
+    float:left;
+    margin-right:10px;
+    margin-bottom:20px;
+}
+
+.slika-sedam p{
+    text-align:center;
+    margin-top: 2px;
+}
+
+.slika-sedam img{
+    width: 180px;
+    height: 180px;
+    border:none;
+}
+
+.slika-osam{
+    float:left;
+    margin-right:10px;
+    margin-bottom:20px;
+}
+
+.slika-osam p{
+    text-align:center;
+    margin-top: 2px;
+}
+
+
+.slika-osam img{
+    width: 180px;
+    height: 180px;
+    border:none;
+}
+
+
+

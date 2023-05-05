@@ -1,0 +1,183 @@
+body{
+    background-image:url("../imgg/bg6.jpg");
+    background-size: cover;
+}
+nav ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+nav ul li{
+    display:inline-block;
+    width: 10%;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color:darkblue ;
+}
+nav ul li a:hover{
+    color:white;
+    font-style: italic;
+ }
+ 
+ .div-jedan{
+     padding-top: 4%;
+    text-align:center;
+    font-family: sans-serif;
+}
+.div-jedan p{
+    font-size: 22px;
+}
+.katalog{
+    padding-top: 20px;
+    margin:auto;
+    font-weight: bold;
+    width: 900px;
+}
+.katalog1{
+    padding-top: 20px;
+    margin:auto;
+    font-weight: bold;
+    width: 900px;
+}
+
+
+ .box-dva img{
+     float:right;
+     height: 550px;
+ }
+
+ .slika-devet{
+    float: left;
+    margin-right: 10px;
+    }
+
+ .slika-devet p{
+    text-align: center;
+    margin-top: 2px;
+ }
+
+ .slika-devet img{
+    width:180px;
+    height: 180px;
+ }
+
+ .slika-deset{
+    float: left;
+    margin-right: 10px;
+ }
+
+ .slika-deset p{
+    text-align: center;
+    margin-top: 2px;
+ }
+
+ .slika-deset img{
+    width:180px;
+    height: 180px;
+ }
+
+ .slika-jedanaest{
+    float: left;
+    margin-right: 10px;
+ }
+
+ .slika-jedanaest p{
+    text-align: center;
+    margin-top: 2px;
+ }
+
+ .slika-jedanaest img{
+    width:180px;
+    height: 180px;
+ }
+
+ .slika-dvanaest{
+    float: left;
+    margin-right: 10px;
+ }
+
+ .slika-dvanaest p{
+    text-align: center;
+    margin-top: 2px;
+ }
+
+ .slika-dvanaest img{
+    width:180px;
+    height: 180px;
+ }
+
+ .slika-trinaest{
+    float: left;
+    margin-right: 10px;
+ }
+
+ .slika-trinaest p{
+    text-align: center;
+    margin-top: 2px;
+ }
+
+ .slika-trinaest img{
+    width:180px;
+    height: 180px;
+ }
+
+.slika-cetrnaest{
+    float: left;
+    margin-right: 10px;
+}
+
+.slika-cetrnaest p{
+    text-align: center;
+    margin-top: 2px;
+}
+
+.slika-cetrnaest img{
+    width:180px;
+    height: 180px;
+}
+
+.slika-petnaest{
+    float:left;
+    margin-right: 10px;
+}
+
+.slika-petnaest p{
+    text-align: center;
+    margin-top: 2px;
+}
+
+.slika-petnaest img{
+    width:180px;
+    height: 180px;
+}
+
+.slika-sesnaest{
+    float:left;
+    margin-right: 10px;
+}
+
+.slika-sesnaest p{
+    text-align: center;
+    margin-top: 2px;
+}
+
+.slika-sesnaest img{
+    width:180px;
+    height: 180px;
+    border:none;
+}
+
+
+
+
+
+
+
+
+
+
